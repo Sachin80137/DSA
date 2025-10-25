@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Sachin80137/DSA/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Sachin80137/DSA/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
