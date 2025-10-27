@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sachin80137/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/Sachin80137/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sachin80137/DSA/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Sachin80137/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
