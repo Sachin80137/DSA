@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Memoization
 |  |
 | ------- |
