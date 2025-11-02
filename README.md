@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sachin80137/DSA/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/Sachin80137/DSA/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Sachin80137/DSA/tree/master/0162-find-peak-element) |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sachin80137/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin80137/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachin80137/DSA/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Sorting
 |  |
 | ------- |
