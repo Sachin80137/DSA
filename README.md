@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Sachin80137/DSA/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Sachin80137/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sachin80137/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sachin80137/DSA/tree/master/0162-find-peak-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Sachin80137/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Memoization
 |  |
