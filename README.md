@@ -24,9 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin80137/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachin80137/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
 ## Counting Sort
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sachin80137/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sachin80137/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sachin80137/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sachin80137/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Matrix
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Sachin80137/DSA/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
