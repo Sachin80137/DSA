@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sachin80137/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin80137/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachin80137/DSA/tree/master/0027-remove-element) |
+| [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sachin80137/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sachin80137/DSA/tree/master/0190-reverse-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
