@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Sachin80137/DSA/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Sachin80137/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
