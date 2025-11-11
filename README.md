@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sachin80137/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sachin80137/DSA/tree/master/0027-remove-element) |
 | [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Sachin80137/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -170,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Sachin80137/DSA/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
