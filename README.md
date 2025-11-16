@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sachin80137/DSA/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sachin80137/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
