@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Sachin80137/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin80137/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Sachin80137/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sachin80137/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sachin80137/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Sachin80137/DSA/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Sachin80137/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Sachin80137/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sachin80137/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
