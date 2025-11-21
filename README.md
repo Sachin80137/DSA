@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin80137/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sachin80137/DSA/tree/master/0162-find-peak-element) |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Sachin80137/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sachin80137/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin80137/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sachin80137/DSA/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sachin80137/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sachin80137/DSA/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sachin80137/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
