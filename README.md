@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Sachin80137/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sachin80137/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Sachin80137/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sachin80137/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [1207-unique-number-of-occurrences](https://github.com/Sachin80137/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
