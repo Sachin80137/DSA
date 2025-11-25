@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sachin80137/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sachin80137/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sachin80137/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin80137/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sachin80137/DSA/tree/master/0075-sort-colors) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sachin80137/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sachin80137/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sachin80137/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sachin80137/DSA/tree/master/0179-largest-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin80137/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sachin80137/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sachin80137/DSA/tree/master/0118-pascals-triangle) |
