@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sachin80137/DSA/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/Sachin80137/DSA/tree/master/0402-remove-k-digits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin80137/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sachin80137/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sachin80137/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sachin80137/DSA/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Sachin80137/DSA/tree/master/0402-remove-k-digits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin80137/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Sachin80137/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sachin80137/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Sachin80137/DSA/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sachin80137/DSA/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Sachin80137/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
