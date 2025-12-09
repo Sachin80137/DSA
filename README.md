@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Sachin80137/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sachin80137/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Sachin80137/DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Sachin80137/DSA/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Sachin80137/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sachin80137/DSA/tree/master/0207-course-schedule) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Sachin80137/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sachin80137/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sachin80137/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sachin80137/DSA/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/Sachin80137/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sachin80137/DSA/tree/master/0207-course-schedule) |
 ## Graph
