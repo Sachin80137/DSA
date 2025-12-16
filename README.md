@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sachin80137/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/Sachin80137/DSA/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sachin80137/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sachin80137/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Sachin80137/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
