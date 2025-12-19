@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sachin80137/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sachin80137/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sachin80137/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Sachin80137/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Sachin80137/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sachin80137/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sachin80137/DSA/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Sachin80137/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sachin80137/DSA/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
