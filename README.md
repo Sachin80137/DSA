@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sachin80137/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Sachin80137/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Sachin80137/DSA/tree/master/0443-string-compression) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sachin80137/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin80137/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sachin80137/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sachin80137/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sachin80137/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Memoization
 |  |
 | ------- |
