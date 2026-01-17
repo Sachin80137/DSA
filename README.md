@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sachin80137/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sachin80137/DSA/tree/master/0875-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Sachin80137/DSA/tree/master/0948-sort-an-array) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Sachin80137/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1207-unique-number-of-occurrences](https://github.com/Sachin80137/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Sachin80137/DSA/tree/master/0498-diagonal-traverse) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Sachin80137/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 ## String
 |  |
 | ------- |
