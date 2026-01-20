@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sachin80137/DSA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sachin80137/DSA/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Sachin80137/DSA/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Sachin80137/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/Sachin80137/DSA/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/Sachin80137/DSA/tree/master/0724-find-pivot-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sachin80137/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Sachin80137/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Sachin80137/DSA/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/Sachin80137/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Sachin80137/DSA/tree/master/0443-string-compression) |
 ## Sorting
