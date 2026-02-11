@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sachin80137/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sachin80137/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin80137/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sachin80137/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Sachin80137/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sachin80137/DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Sachin80137/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sachin80137/DSA/tree/master/0079-word-search) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sachin80137/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sachin80137/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sachin80137/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Sachin80137/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
