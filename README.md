@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sachin80137/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Sachin80137/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Sachin80137/DSA/tree/master/0498-diagonal-traverse) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sachin80137/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 ## String
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sachin80137/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sachin80137/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sachin80137/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sachin80137/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sachin80137/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Sachin80137/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sachin80137/DSA/tree/master/0125-valid-palindrome) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sachin80137/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sachin80137/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sachin80137/DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Sachin80137/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sachin80137/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sachin80137/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sachin80137/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sachin80137/DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
