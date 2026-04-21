@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sachin80137/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachin80137/DSA/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/Sachin80137/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Sachin80137/DSA/tree/master/0367-valid-perfect-square) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sachin80137/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Dynamic Programming
