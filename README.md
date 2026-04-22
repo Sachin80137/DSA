@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sachin80137/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Sachin80137/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Sachin80137/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sachin80137/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sachin80137/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sachin80137/DSA/tree/master/0875-koko-eating-bananas) |
 ## Tree
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sachin80137/DSA/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sachin80137/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
