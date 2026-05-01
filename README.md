@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sachin80137/DSA/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Sachin80137/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Sachin80137/DSA/tree/master/0367-valid-perfect-square) |
+| [0492-construct-the-rectangle](https://github.com/Sachin80137/DSA/tree/master/0492-construct-the-rectangle) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sachin80137/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
